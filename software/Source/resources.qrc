@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/applications-system.svg</file>
+        <file>img/dialog-error.svg</file>
+        <file>img/dialog-information.svg</file>
+        <file>img/dialog-warning.svg</file>
+        <file>img/document-open.svg</file>
+        <file>img/document-save.svg</file>
+        <file>img/document-save-as.svg</file>
+        <file>img/edit-cut.svg</file>
+        <file>img/edit-paste.svg</file>
+        <file>img/edit-redo.svg</file>
+        <file>img/edit-undo.svg</file>
+        <file>img/emblem-important.svg</file>
+        <file>img/go-down.svg</file>
+        <file>img/help-browser.svg</file>
+        <file>img/printer.svg</file>
+        <file>img/system-log-out.svg</file>
+        <file>img/view-refresh.svg</file>
+        <file>img/edit-copy.svg</file>
+        <file>img/go-up.svg</file>
+    </qresource>
+</RCC>
